@@ -1,5 +1,5 @@
 [package]
-name = "structs"
+name = "error"
 version = "0.1.0"
 authors = ["iamlockon <xdddxyyyxzzz123@gmail.com>"]
 edition = "2018"
