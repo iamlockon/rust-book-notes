@@ -78,7 +78,7 @@ struct Pair<T> {
     y: T,
 }
 
-impl<T> Pair<T> {
+impl<T> Pair<T> {              // note trait bound annotations.
     fn new(x:T, y:T) -> Self { // Pair always implement `new`
         Self {
             x,
